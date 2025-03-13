@@ -12,7 +12,7 @@ Ensure you have the following installed:
 
 You can download example videos and the model for testing from the following link:
 
-[Download Example Videos and Model](https://drive.google.com/drive/folders/your-drive-link) (TODO)
+[Download Example Videos and Model](https://drive.google.com/file/d/137UOJCnCPgMwfHiWBgDMy2tK-aR0RZ8U/view?usp=sharing)
  
 ## YouTube Demonstration
 
